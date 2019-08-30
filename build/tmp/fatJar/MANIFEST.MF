@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: CachingImageLoader
+Implementation-Version: 1.0.0
+Main-Class: org.rakishou.cachingimageloader.core.CachingImageLoaderKt
+
